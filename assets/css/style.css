@@ -89,6 +89,10 @@ body {
     justify-content: space-between;
 }
 
+.navbar .navbar__logo a img {
+    width: 150px;
+}
+
 .navbar__menu-icon {
     display: none;
 }
